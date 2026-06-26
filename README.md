@@ -71,8 +71,8 @@ Run:
 ## Sample Commands
 
 ```
-BUY 100 20 Alice
-SELL 100 10 Bob
+BUY 100 20 Rahul
+SELL 100 10 Neha
 BOOK
 VIEW 1
 STATS
